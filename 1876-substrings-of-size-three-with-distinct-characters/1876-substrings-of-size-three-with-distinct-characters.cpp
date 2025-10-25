@@ -5,11 +5,8 @@ public:
         int n = s.size();
 
         for(int i=0; i+2<n; i++){
-            int a = s[i];
-            int b = s[i+1];
-            int c = s[i+2];
-
-            if(a != b && b != c && a != c){
+            unordered_set<char> st = {s[i], s[i+1], s[i+2]};
+            if(st.size() == 3){
                 count++;
             }
         }
