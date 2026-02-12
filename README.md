@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sarbojitdutta/Codes/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/sarbojitdutta/Codes/tree/master/0088-merge-sorted-array) |
 | [0289-game-of-life](https://github.com/sarbojitdutta/Codes/tree/master/0289-game-of-life) |
 ## Hash Table
 |  |
@@ -21,4 +22,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/sarbojitdutta/Codes/tree/master/0289-game-of-life) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/sarbojitdutta/Codes/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/sarbojitdutta/Codes/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
