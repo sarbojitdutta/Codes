@@ -4,10 +4,10 @@ public:
         unordered_map<int, int>map;
 
         for(int i = 0; i < nums.size(); i++){
-            int complement = target - nums[i];
+            int y = target - nums[i];
 
-            if(map.find(complement) != map.end()){
-                return {map[complement], i};
+            if(map.find(y) != map.end()){
+                return {map[y], i};
             }
             map[nums[i]] = i;
         }
