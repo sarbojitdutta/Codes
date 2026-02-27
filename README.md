@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sarbojitdutta/Codes/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sarbojitdutta/Codes/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/sarbojitdutta/Codes/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/sarbojitdutta/Codes/tree/master/0290-word-pattern) |
@@ -67,4 +68,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sarbojitdutta/Codes/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sarbojitdutta/Codes/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
