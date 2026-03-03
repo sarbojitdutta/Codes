@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/sarbojitdutta/Codes/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/sarbojitdutta/Codes/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/sarbojitdutta/Codes/tree/master/0383-ransom-note) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sarbojitdutta/Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Counting
 |  |
 | ------- |
@@ -72,4 +73,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarbojitdutta/Codes/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sarbojitdutta/Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
