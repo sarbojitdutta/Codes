@@ -75,5 +75,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarbojitdutta/Codes/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/sarbojitdutta/Codes/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/sarbojitdutta/Codes/tree/master/0155-min-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sarbojitdutta/Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sarbojitdutta/Codes/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
