@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarbojitdutta/Codes/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sarbojitdutta/Codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/sarbojitdutta/Codes/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sarbojitdutta/Codes/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/sarbojitdutta/Codes/tree/master/0088-merge-sorted-array) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sarbojitdutta/Codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/sarbojitdutta/Codes/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sarbojitdutta/Codes/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/sarbojitdutta/Codes/tree/master/0202-happy-number) |
