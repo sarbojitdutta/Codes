@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarbojitdutta/Codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/sarbojitdutta/Codes/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sarbojitdutta/Codes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/sarbojitdutta/Codes/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/sarbojitdutta/Codes/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sarbojitdutta/Codes/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/sarbojitdutta/Codes/tree/master/0202-happy-number) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/sarbojitdutta/Codes/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/sarbojitdutta/Codes/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sarbojitdutta/Codes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/sarbojitdutta/Codes/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/sarbojitdutta/Codes/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/sarbojitdutta/Codes/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/sarbojitdutta/Codes/tree/master/0141-linked-list-cycle) |
