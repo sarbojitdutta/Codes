@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarbojitdutta/Codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sarbojitdutta/Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarbojitdutta/Codes/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/sarbojitdutta/Codes/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/sarbojitdutta/Codes/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/sarbojitdutta/Codes/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/sarbojitdutta/Codes/tree/master/0289-game-of-life) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0086-partition-list](https://github.com/sarbojitdutta/Codes/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/sarbojitdutta/Codes/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sarbojitdutta/Codes/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/sarbojitdutta/Codes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sarbojitdutta/Codes/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/sarbojitdutta/Codes/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sarbojitdutta/Codes/tree/master/0283-move-zeroes) |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/sarbojitdutta/Codes/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarbojitdutta/Codes/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/sarbojitdutta/Codes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sarbojitdutta/Codes/tree/master/0202-happy-number) |
 ## Sliding Window
 |  |
