@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/sarbojitdutta/Codes/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarbojitdutta/Codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/sarbojitdutta/Codes/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/sarbojitdutta/Codes/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/sarbojitdutta/Codes/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/sarbojitdutta/Codes/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sarbojitdutta/Codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -139,11 +140,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sarbojitdutta/Codes/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarbojitdutta/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarbojitdutta/Codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sarbojitdutta/Codes/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarbojitdutta/Codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Tree
 |  |
