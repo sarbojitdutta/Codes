@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sarbojitdutta/Codes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/sarbojitdutta/Codes/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/sarbojitdutta/Codes/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/sarbojitdutta/Codes/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sarbojitdutta/Codes/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/sarbojitdutta/Codes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sarbojitdutta/Codes/tree/master/0202-happy-number) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/sarbojitdutta/Codes/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sarbojitdutta/Codes/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/sarbojitdutta/Codes/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/sarbojitdutta/Codes/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/sarbojitdutta/Codes/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/sarbojitdutta/Codes/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/sarbojitdutta/Codes/tree/master/0383-ransom-note) |
