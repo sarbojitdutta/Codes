@@ -1,27 +1,24 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        s.erase(remove_if(s.begin(), s.end(),
-                [](unsigned char c){ return !isalnum(c); }),
-        s.end());
-
-        for (char &c : s) 
-        c = std::tolower(static_cast<unsigned char>(c));
-
         int left = 0;
-        int right = s.size()-1;
-
-        bool isPalindrome = true;
+        int right = s.length() - 1;
 
         while(left < right){
-            if(s[left] != s[right]){
-                isPalindrome = false;
-                break;
+            while(left < right && !isalnum(s[left])){
+                left++;
+            }
+
+            while(left < right && !isalnum(s[right])){
+                right--;
+            }
+
+            while(tolower(s[left]) != tolower(s[right])){
+                return false;
             }
             left++;
             right--;
         }
-
-        return isPalindrome;
+        return true;
     }
 };
