@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/sarbojitdutta/Codes/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/sarbojitdutta/Codes/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sarbojitdutta/Codes/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/sarbojitdutta/Codes/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sarbojitdutta/Codes/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/sarbojitdutta/Codes/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/sarbojitdutta/Codes/tree/master/0088-merge-sorted-array) |
@@ -50,11 +51,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sarbojitdutta/Codes/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sarbojitdutta/Codes/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/sarbojitdutta/Codes/tree/master/0289-game-of-life) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sarbojitdutta/Codes/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/sarbojitdutta/Codes/tree/master/0289-game-of-life) |
 ## Two Pointers
 |  |
