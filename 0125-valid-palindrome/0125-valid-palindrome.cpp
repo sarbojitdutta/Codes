@@ -8,17 +8,17 @@ public:
             while(left < right && !isalnum(s[left])){
                 left++;
             }
-
             while(left < right && !isalnum(s[right])){
                 right--;
             }
 
-            while(tolower(s[left]) != tolower(s[right])){
+            if(tolower(s[left]) != tolower(s[right])){
                 return false;
             }
             left++;
             right--;
         }
         return true;
+        
     }
 };
