@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/sarbojitdutta/Codes/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/sarbojitdutta/Codes/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sarbojitdutta/Codes/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/sarbojitdutta/Codes/tree/master/0071-simplify-path) |
