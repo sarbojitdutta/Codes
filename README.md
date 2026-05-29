@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarbojitdutta/Codes/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sarbojitdutta/Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sarbojitdutta/Codes/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sarbojitdutta/Codes/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sarbojitdutta/Codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sarbojitdutta/Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/sarbojitdutta/Codes/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/sarbojitdutta/Codes/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sarbojitdutta/Codes/tree/master/0038-count-and-say) |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sarbojitdutta/Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/sarbojitdutta/Codes/tree/master/0219-contains-duplicate-ii) |
 ## Union-Find
 |  |
