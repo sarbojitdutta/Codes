@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/sarbojitdutta/Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarbojitdutta/Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/sarbojitdutta/Codes/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/sarbojitdutta/Codes/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sarbojitdutta/Codes/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sarbojitdutta/Codes/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sarbojitdutta/Codes/tree/master/0054-spiral-matrix) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/sarbojitdutta/Codes/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/sarbojitdutta/Codes/tree/master/0046-permutations) |
 ## Queue
 |  |
 | ------- |
