@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/sarbojitdutta/Codes/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sarbojitdutta/Codes/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/sarbojitdutta/Codes/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sarbojitdutta/Codes/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarbojitdutta/Codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sarbojitdutta/Codes/tree/master/0033-search-in-rotated-sorted-array) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarbojitdutta/Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/sarbojitdutta/Codes/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/sarbojitdutta/Codes/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sarbojitdutta/Codes/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sarbojitdutta/Codes/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/sarbojitdutta/Codes/tree/master/0049-group-anagrams) |
@@ -255,4 +257,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sarbojitdutta/Codes/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sarbojitdutta/Codes/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
