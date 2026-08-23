@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/sarbojitdutta/Codes/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sarbojitdutta/Codes/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/sarbojitdutta/Codes/tree/master/0289-game-of-life) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sarbojitdutta/Codes/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarbojitdutta/Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sarbojitdutta/Codes/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/sarbojitdutta/Codes/tree/master/0278-first-bad-version) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sarbojitdutta/Codes/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -271,4 +273,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/sarbojitdutta/Codes/tree/master/0278-first-bad-version) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sarbojitdutta/Codes/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
