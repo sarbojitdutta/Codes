@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/sarbojitdutta/Codes/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sarbojitdutta/Codes/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/sarbojitdutta/Codes/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/sarbojitdutta/Codes/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/sarbojitdutta/Codes/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sarbojitdutta/Codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sarbojitdutta/Codes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/sarbojitdutta/Codes/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sarbojitdutta/Codes/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/sarbojitdutta/Codes/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/sarbojitdutta/Codes/tree/master/0289-game-of-life) |
 ## Simulation
 |  |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/sarbojitdutta/Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarbojitdutta/Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sarbojitdutta/Codes/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/sarbojitdutta/Codes/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/sarbojitdutta/Codes/tree/master/0278-first-bad-version) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sarbojitdutta/Codes/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Backtracking
