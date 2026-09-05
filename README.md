@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarbojitdutta/Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sarbojitdutta/Codes/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/sarbojitdutta/Codes/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/sarbojitdutta/Codes/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/sarbojitdutta/Codes/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sarbojitdutta/Codes/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sarbojitdutta/Codes/tree/master/0053-maximum-subarray) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/sarbojitdutta/Codes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarbojitdutta/Codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/sarbojitdutta/Codes/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sarbojitdutta/Codes/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sarbojitdutta/Codes/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sarbojitdutta/Codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
