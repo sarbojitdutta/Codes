@@ -289,4 +289,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sarbojitdutta/Codes/tree/master/0029-divide-two-integers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sarbojitdutta/Codes/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
