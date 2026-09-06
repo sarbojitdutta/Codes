@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sarbojitdutta/Codes/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/sarbojitdutta/Codes/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarbojitdutta/Codes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sarbojitdutta/Codes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sarbojitdutta/Codes/tree/master/0202-happy-number) |
@@ -284,4 +285,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sarbojitdutta/Codes/tree/master/0852-peak-index-in-a-mountain-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/sarbojitdutta/Codes/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
