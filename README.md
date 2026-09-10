@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/sarbojitdutta/Codes/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/sarbojitdutta/Codes/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarbojitdutta/Codes/tree/master/0387-first-unique-character-in-a-string) |
+| [1021-remove-outermost-parentheses](https://github.com/sarbojitdutta/Codes/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sarbojitdutta/Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Counting
 |  |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarbojitdutta/Codes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sarbojitdutta/Codes/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sarbojitdutta/Codes/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/sarbojitdutta/Codes/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sarbojitdutta/Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
@@ -293,4 +295,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarbojitdutta/Codes/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/sarbojitdutta/Codes/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
