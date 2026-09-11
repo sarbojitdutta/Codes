@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/sarbojitdutta/Codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarbojitdutta/Codes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sarbojitdutta/Codes/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/sarbojitdutta/Codes/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sarbojitdutta/Codes/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/sarbojitdutta/Codes/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sarbojitdutta/Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sarbojitdutta/Codes/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/sarbojitdutta/Codes/tree/master/0225-implement-stack-using-queues) |
 ## Linked List
 |  |
 | ------- |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sarbojitdutta/Codes/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarbojitdutta/Codes/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
