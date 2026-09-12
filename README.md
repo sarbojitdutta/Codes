@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/sarbojitdutta/Codes/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/sarbojitdutta/Codes/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarbojitdutta/Codes/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/sarbojitdutta/Codes/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/sarbojitdutta/Codes/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sarbojitdutta/Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Counting
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/sarbojitdutta/Codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sarbojitdutta/Codes/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sarbojitdutta/Codes/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/sarbojitdutta/Codes/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/sarbojitdutta/Codes/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sarbojitdutta/Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/sarbojitdutta/Codes/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/sarbojitdutta/Codes/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarbojitdutta/Codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/sarbojitdutta/Codes/tree/master/0402-remove-k-digits) |
 ## Tree
 |  |
 | ------- |
@@ -302,4 +305,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarbojitdutta/Codes/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/sarbojitdutta/Codes/tree/master/1021-remove-outermost-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/sarbojitdutta/Codes/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
