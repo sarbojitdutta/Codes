@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/sarbojitdutta/Codes/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sarbojitdutta/Codes/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/sarbojitdutta/Codes/tree/master/0289-game-of-life) |
+| [0682-baseball-game](https://github.com/sarbojitdutta/Codes/tree/master/0682-baseball-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sarbojitdutta/Codes/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/sarbojitdutta/Codes/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/sarbojitdutta/Codes/tree/master/0289-game-of-life) |
+| [0682-baseball-game](https://github.com/sarbojitdutta/Codes/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/sarbojitdutta/Codes/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sarbojitdutta/Codes/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/sarbojitdutta/Codes/tree/master/0402-remove-k-digits) |
+| [0682-baseball-game](https://github.com/sarbojitdutta/Codes/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/sarbojitdutta/Codes/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sarbojitdutta/Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
