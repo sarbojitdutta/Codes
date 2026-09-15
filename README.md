@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/sarbojitdutta/Codes/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/sarbojitdutta/Codes/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/sarbojitdutta/Codes/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/sarbojitdutta/Codes/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/sarbojitdutta/Codes/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sarbojitdutta/Codes/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/sarbojitdutta/Codes/tree/master/0344-reverse-string) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarbojitdutta/Codes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sarbojitdutta/Codes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sarbojitdutta/Codes/tree/master/0202-happy-number) |
+| [0227-basic-calculator-ii](https://github.com/sarbojitdutta/Codes/tree/master/0227-basic-calculator-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarbojitdutta/Codes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sarbojitdutta/Codes/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sarbojitdutta/Codes/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/sarbojitdutta/Codes/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/sarbojitdutta/Codes/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sarbojitdutta/Codes/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/sarbojitdutta/Codes/tree/master/0402-remove-k-digits) |
