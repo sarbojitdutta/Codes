@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/sarbojitdutta/Codes/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/sarbojitdutta/Codes/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/sarbojitdutta/Codes/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/sarbojitdutta/Codes/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sarbojitdutta/Codes/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sarbojitdutta/Codes/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sarbojitdutta/Codes/tree/master/0053-maximum-subarray) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/sarbojitdutta/Codes/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sarbojitdutta/Codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarbojitdutta/Codes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/sarbojitdutta/Codes/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sarbojitdutta/Codes/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sarbojitdutta/Codes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/sarbojitdutta/Codes/tree/master/0086-partition-list) |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarbojitdutta/Codes/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sarbojitdutta/Codes/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/sarbojitdutta/Codes/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sarbojitdutta/Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sarbojitdutta/Codes/tree/master/0144-binary-tree-preorder-traversal) |
@@ -201,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sarbojitdutta/Codes/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/sarbojitdutta/Codes/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sarbojitdutta/Codes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sarbojitdutta/Codes/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarbojitdutta/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -316,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sarbojitdutta/Codes/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/sarbojitdutta/Codes/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/sarbojitdutta/Codes/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
