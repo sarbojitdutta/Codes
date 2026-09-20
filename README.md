@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/sarbojitdutta/Codes/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sarbojitdutta/Codes/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/sarbojitdutta/Codes/tree/master/0289-game-of-life) |
+| [0622-design-circular-queue](https://github.com/sarbojitdutta/Codes/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/sarbojitdutta/Codes/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sarbojitdutta/Codes/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sarbojitdutta/Codes/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/sarbojitdutta/Codes/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sarbojitdutta/Codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sarbojitdutta/Codes/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/sarbojitdutta/Codes/tree/master/0622-design-circular-queue) |
 ## Linked List
 |  |
 | ------- |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/sarbojitdutta/Codes/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sarbojitdutta/Codes/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sarbojitdutta/Codes/tree/master/0237-delete-node-in-a-linked-list) |
+| [0622-design-circular-queue](https://github.com/sarbojitdutta/Codes/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/sarbojitdutta/Codes/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -299,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/sarbojitdutta/Codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sarbojitdutta/Codes/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarbojitdutta/Codes/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/sarbojitdutta/Codes/tree/master/0622-design-circular-queue) |
 ## Trie
 |  |
 | ------- |
