@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/sarbojitdutta/Codes/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/sarbojitdutta/Codes/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/sarbojitdutta/Codes/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarbojitdutta/Codes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sarbojitdutta/Codes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sarbojitdutta/Codes/tree/master/0202-happy-number) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/sarbojitdutta/Codes/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sarbojitdutta/Codes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sarbojitdutta/Codes/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/sarbojitdutta/Codes/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarbojitdutta/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarbojitdutta/Codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
@@ -331,4 +333,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/sarbojitdutta/Codes/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/sarbojitdutta/Codes/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/sarbojitdutta/Codes/tree/master/0739-daily-temperatures) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sarbojitdutta/Codes/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
