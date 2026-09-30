@@ -4,8 +4,10 @@ class Solution:
         for i in range(0, len(nums)):
             y = target - nums[i]
 
-            if y in dict:
-                return [dict[y], i]
-            dict[nums[i]] = i
+            for index, value in dict.items():
+                if value == y:
+                    return [index, i]
+
+            dict[i] = nums[i]
         
         return []
