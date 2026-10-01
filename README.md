@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/sarbojitdutta/Codes/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sarbojitdutta/Codes/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sarbojitdutta/Codes/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/sarbojitdutta/Codes/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sarbojitdutta/Codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sarbojitdutta/Codes/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sarbojitdutta/Codes/tree/master/0078-subsets) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/sarbojitdutta/Codes/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/sarbojitdutta/Codes/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/sarbojitdutta/Codes/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/sarbojitdutta/Codes/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sarbojitdutta/Codes/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarbojitdutta/Codes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sarbojitdutta/Codes/tree/master/0189-rotate-array) |
