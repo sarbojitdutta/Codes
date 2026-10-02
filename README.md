@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/sarbojitdutta/Codes/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sarbojitdutta/Codes/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/sarbojitdutta/Codes/tree/master/0289-game-of-life) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sarbojitdutta/Codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0622-design-circular-queue](https://github.com/sarbojitdutta/Codes/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/sarbojitdutta/Codes/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sarbojitdutta/Codes/tree/master/0739-daily-temperatures) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/sarbojitdutta/Codes/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sarbojitdutta/Codes/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sarbojitdutta/Codes/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sarbojitdutta/Codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/sarbojitdutta/Codes/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarbojitdutta/Codes/tree/master/0387-first-unique-character-in-a-string) |
 ## Matrix
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/sarbojitdutta/Codes/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sarbojitdutta/Codes/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sarbojitdutta/Codes/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sarbojitdutta/Codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/sarbojitdutta/Codes/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -109,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/sarbojitdutta/Codes/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sarbojitdutta/Codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sarbojitdutta/Codes/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sarbojitdutta/Codes/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -302,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/sarbojitdutta/Codes/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sarbojitdutta/Codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/sarbojitdutta/Codes/tree/master/0278-first-bad-version) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sarbojitdutta/Codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sarbojitdutta/Codes/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Backtracking
 |  |
